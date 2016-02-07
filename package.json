@@ -1,0 +1,26 @@
+{
+	"name": "parser3",
+	"displayName": "parser3",
+	"description": "Parser 3 language support",
+	"version": "0.0.1",
+	"publisher": "viatsko",
+	"engines": {
+		"vscode": "^0.10.6"
+	},
+	"categories": [
+		"Languages"
+	],
+	"contributes": {
+		"languages": [{
+			"id": "parser3",
+			"aliases": ["parser3", "parser3"],
+			"extensions": [".p",".bp",".pp"],
+			"configuration": "./parser3.configuration.json"
+		}],
+		"grammars": [{
+			"language": "parser3",
+			"scopeName": "source.parser3",
+			"path": "./syntaxes/parser3.tmLanguage"
+		}]
+	}
+}
