@@ -1,9 +1,10 @@
 {
 	"name": "parser3",
-	"displayName": "parser3",
+	"displayName": "Parser 3",
 	"description": "Parser 3 language support",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "viatsko",
+    "icon": "images/ptic.gif",
 	"engines": {
 		"vscode": "^0.10.6"
 	},

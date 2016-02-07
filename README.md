@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "parser3" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Parser 3 syntax support extension
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+![](http://www.parser.ru/off-line/ptic.gif)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Parser is a simple and convenient object-oriented language, which allows creating good sites in short time. It is a little more complicated than HTML, but requires no special programming skills. Parser was started in Art. Lebedev studio in 1997. Nowadays, most of sites created by Art. Lebedev studio are made with Parser.
 
-** Enjoy!**
+[Official site](http://www.parser.ru/en/)
